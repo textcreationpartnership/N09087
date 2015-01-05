@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011600_0000_0F87797FCA16EE78"/>
-            <pb facs="tcp:011600_0001_0F87798061A6CEA0"/>
+            <pb facs="unknown:011600_0000_0F87797FCA16EE78"/>
+            <pb facs="unknown:011600_0001_0F87798061A6CEA0"/>
             <p>AN ELEGY TO THE MEMORY OF That pious and eminent Servant of <hi>JESUS CHRIST,</hi> THE REVEREND Mr. GEORGE WHITEFIELD, Who departed this Life the 30th of SEPTEMPER, 1770.</p>
             <p>AETATIS SUAE 56.</p>
             <q>Nullos virtutibus pares habemus, et habebimus Gloria neminem. <bibl>PLIN. Epist.</bibl>
@@ -125,14 +125,14 @@
                <hi>BOSTON;</hi> NEW-ENGLAND: Printed by RICHARD DRAPER. MDCCLXX:</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:011600_0002_0F877980A4207D48"/>
+            <pb facs="unknown:011600_0002_0F877980A4207D48"/>
             <head>TO THE REVEREND MATHER BYLES, D. D.</head>
             <p>These TEARS sprinkled upon the Ashes of his <hi>deceased BROTHER,</hi> are gratefully inscribed BY his affectionate Friend, and humble Servant, The AUTHOR.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:011600_0003_0F8779815B855D48"/>
+            <pb n="3" facs="unknown:011600_0003_0F8779815B855D48"/>
             <head>AN ELEGY, &amp;c.</head>
             <lg>
                <l>
@@ -160,7 +160,7 @@
                <l>And thinn'd the dreary regions of despair.</l>
             </lg>
             <lg>
-               <pb n="4" facs="tcp:011600_0004_0F8779821CFF5318"/>
+               <pb n="4" facs="unknown:011600_0004_0F8779821CFF5318"/>
                <l>The ice of Death has quench'd the seraph's flame;</l>
                <l>Mute is the tongue, that charm'd the world before:</l>
                <l>The <hi>Grave'</hi>s strong fetters bind his precious frame,</l>
@@ -191,7 +191,7 @@
                <l>Bid us to die,—'tis harder to resign.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:011600_0005_0F877982E7DC9700"/>
+               <pb n="5" facs="unknown:011600_0005_0F877982E7DC9700"/>
                <l>Who rear'd yon hallow'd PILE on <hi>Georgia'</hi>s strand,</l>
                <l>And led fair Science to the savage soil?</l>
                <l>Sacred to GOD, the monument shall stand,</l>
@@ -222,7 +222,7 @@
                <l>And lash reluctant demons into hell.</l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:011600_0006_0F877984CAEC0D10"/>
+               <pb n="6" facs="unknown:011600_0006_0F877984CAEC0D10"/>
                <l>Who cinctur'd virtue, in unsullied white,</l>
                <l>Emboss'd with stars, and smiling heav'nly fair?</l>
                <l>Who vice pourtray'd, so baneful to the sight,</l>
@@ -253,7 +253,7 @@
                <l>To blaze and brighten, through eternal day.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:011600_0007_0F87798652059DF0"/>
+               <pb n="7" facs="unknown:011600_0007_0F87798652059DF0"/>
                <l>Thy rich remains shall shed a sweet perfume,</l>
                <l>There shall the worthy drop the pious tear,</l>
                <l>And cry, while bending o'er thy hallow'd tomb,</l>
@@ -289,7 +289,7 @@
          </div>
          <div type="poem">
             <lg>
-               <pb facs="tcp:011600_0008_0F8779870BA87F40"/>
+               <pb facs="unknown:011600_0008_0F8779870BA87F40"/>
                <l>Dic quibus in Terris floret WHITEFIELDIUS alter</l>
                <l>Si poteris, Lector, dignus honoris eris?—</l>
                <l>Sicut enim Fulgur Coelis, at<expan>
